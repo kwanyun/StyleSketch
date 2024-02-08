@@ -1,0 +1,15 @@
+{
+  "exp_dir": "model_dir/",
+  "batch_size": 4,
+  "dim": [1024, 1024],
+  "max_training": 16,
+  "ada_augment" : true,
+  "d_regularize" :true,
+  "annotation_data_from_w": true,
+  "annotation_sketch_path": "./dataset_release/annotation/training_data/pseudoface_processed3/",
+  "saved_latent": "./checkpoints/stylegan_pretrain/stylegan2-ffhq-1024x1024.pt",
+  "image_latent_path": "./dataset_release/latent/",
+  "stylegan_checkpoint": "https://api.ngc.nvidia.com/v2/models/nvidia/research/stylegan2/versions/1/files/stylegan2-ffhq-1024x1024.pkl",
+  "stylesketch_path":"./model_dir/",
+  "model_num": 1
+ } 
