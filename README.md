@@ -6,18 +6,17 @@
 ## Getting Started
 * install dependency
 ```bash
-bash setup.sh
+bash run.sh
 ```
 * Put styleGAN related checkpoints folder in stylesketch/sketch folder
   * ex) stylesketch/sketch/checkpoints/stylegan_pretrain
-```bash
-https://drive.google.com/file/d/1X--a491Q6reEBV50XfyYqQ86yDxI44nd/view?usp=drive_link
-```
+  * https://drive.google.com/file/d/1X--a491Q6reEBV50XfyYqQ86yDxI44nd/view?usp=drive_link
+
 
 
 * Put pretrained StyleSketch weights in model_dir
   * ex) stylesketch/sketch/model_dir
-  * `https://drive.google.com/file/d/17AgaRzSwXi3c5tmTZztrGGifyHGKrrQu/view?usp=drive_link`
+  * https://drive.google.com/file/d/17AgaRzSwXi3c5tmTZztrGGifyHGKrrQu/view?usp=drive_link
 
 
 ## How to inference Scripts
@@ -32,13 +31,13 @@ In our experiment, we used e4e(https://github.com/omertov/encoder4editing) follo
 
 # SKSF-A Sketch Data
 SKSF-A consists of seven distinct styles drawn by professional artists. SKSF-A contains 134 identities and corresponding sketches, making a total of 938 face-sketch pairs.
-```bash
+
 https://github.com/kwanyun/SKSF-A
-```
-## Acknowledgments
+
+### Acknowledgments
 our codes were borrowed from DatasetGAN(https://github.com/nv-tlabs/datasetGAN_release)
 
-# If you use this code for your research, please cite our paper Designing an Encoder for StyleGAN Image Manipulation:
+### If you use this code or SKSF-A for your research, please cite our paper:
 ```bash
 @article{yun2024stylized,
   title={Stylized Face Sketch Extraction via Generative Prior with Limited Data},
