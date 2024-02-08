@@ -1,7 +1,7 @@
 # Stylized Face Sketch Extraction via Generative Prior with Limited Data (EUROGRAPHICS 2024)
 
 ### Official repository of StyleSketch
-[DATA SET](https://github.com/kwanyun/SKSF-A) [Project Page]()
+[DATA SET](https://github.com/kwanyun/SKSF-A)      [Project Page]()
 ![teaser2](https://github.com/kwanyun/StyleSketch/assets/68629563/e5368677-fbd4-4942-9385-ed7cc14de603)
 
 ### Getting Started
