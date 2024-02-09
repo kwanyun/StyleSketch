@@ -26,12 +26,12 @@ cd sketch
 python generate.py --train_data model_sketch_MJ
 python generate.py --train_data model_pencil_sj
 ```
-### How to get the pt file
+### How to make the w^+ code to extract sketches?
 In our experiment, we used [e4e](https://github.com/omertov/encoder4editing) followed by optimization. This can be replaced by different inversion methods.
 
 
 ### SKSF-A Sketch Data
-SKSF-A consists of seven distinct styles drawn by professional artists. SKSF-A contains 134 identities and corresponding sketches, making a total of 938 face-sketch pairs.
+SKSF-A consists of seven distinct styles drawn by professional artists, each containing 134 identities and corresponding sketches.
 
 ### [SKSF-A](https://github.com/kwanyun/SKSF-A)
 
