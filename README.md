@@ -40,10 +40,11 @@ our codes were borrowed from [DatasetGAN](https://github.com/nv-tlabs/datasetGAN
 
 ### If you use this code or SKSF-A for your research, please cite our paper:
 ```bash
-@article{yun2024stylized,
+@inproceedings{yun2024stylized,
   title={Stylized Face Sketch Extraction via Generative Prior with Limited Data},
-  author={anon},
-  journal={anon},
-  year={2024}
+  author={Yun, Kwan and Seo, Kwanggyoon and Seo, Changwook and Yoon, Soyeon and Kim, Seongcheol and Ji, Soohyun and Ashtari, Amirsaman and Noh, Junyong},
+  booktitle={Computer Graphics Forum},
+  year={2024},
+  organization={Wiley Online Library}
 }
 ```
