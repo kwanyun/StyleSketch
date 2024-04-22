@@ -13,8 +13,6 @@ bash run.sh
 
   https://drive.google.com/file/d/1X--a491Q6reEBV50XfyYqQ86yDxI44nd/view?usp=drive_link
 
-  https://drive.google.com/file/d/1pvyW_I-J0dMPqPnnYBcBeeevAI1O-wam/view?usp=drive_link
-
 
 * Put pretrained StyleSketch weights in model_dir
   ex) stylesketch/sketch/model_dir
