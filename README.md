@@ -23,8 +23,8 @@ bash run.sh
 Move to sketch folder and run generate.py with the style to extract
 ```bash
 cd sketch
-python generate.py --train_data model_sketch_MJ
-python generate.py --train_data model_pencil_sj
+python generate.py --train_data sketch_MJ
+python generate.py --train_data pencil_sj
 ```
 ### How to make the w^+ code to extract sketches?
 In our experiment, we used [e4e](https://github.com/omertov/encoder4editing) followed by optimization. This can be replaced by different inversion methods.
